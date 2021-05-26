@@ -1,8 +1,8 @@
-baseURL = "https://example.com/"
+baseURL = "https://rex-less.github.io/online-resume/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 theme = "almeida-cv"
-title = "Example - CV"
+title = "Rex's Online Resume"
 
 [params]
 colorDark = "#666"
