@@ -1,0 +1,105 @@
+BasicInfo:
+  FirstName: Technical
+  LastName: Rex
+  Photo: https://www.newsmax.com/CMSPages/GetFile.aspx?guid=f3ba14e2-c95a-4089-ab95-50997c2dc352&SiteName=Newsmax
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +To Be Announced (With Call From Browser Action!)
+    - Icon: fas fa-envelope
+      Info: askrexabout+resume@gmail.com
+    - Icon: fas fa-globe
+      Info: not yet.. soon!
+    - Icon: fas fa-map-marker-alt
+      Info: Beaverton, OR
+Profile: A generalist web developer with an enterprise software engineering focus. Experienced building and main customer centric products that are built on the cloud and for the browser. browser based technology. scoped and experienced software engineer that works on cloud and browser based technologies. Developing or maintain a productcustomer centric for enterprise teams. Fluent and experienced in enterprise scale object oriented and functional programming. Customer centric and mindful of their future to best provide an effortless experience with the products I work with. 
+Experience:
+  - Employer: Twilio, Inc.
+    Place: Beaverton, OR
+    Positions:
+      - Title: Technical Support Engineer and Developer
+        Date: Dec 2018 - Apr 2021
+        Details:
+          - Handeled or routed any technical problem a customer had and provided a service them to a solution or aswer.
+          - Specialized in customer support on the following products Flex, TaskRouter, Messaging, Chat, Voice and Proxy
+          - Sed viverra tellus in hac.
+          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
+  - Employer: Another super cool company
+    Place: Lisbon, PT
+    Positions:
+      - Title: Principal Technical Support Engineer
+        Date: Jan 2018 - Mar 2019
+        Details:
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+          - Sed viverra tellus in hac.
+          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
+  - Employer: Institute of Neural Engineering
+    Place: Graz, AT
+    Positions:
+      - Title: Technical Support Engineer (L4)
+        Date: Oct 2016 - Jun 2017
+        Details:
+          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Viverra aliquet eget sit amet tellus cras adipiscing
+          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+          - Nisl tincidunt eget nullam non nisi est
+        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+
+Education:
+  - Course: BSc & MSc in Biomedical Engineering and Biophysics
+    Place: University of Lisbon
+    Date: Sep 2012 - Nov 2017
+    Details: Specialised in data analysis
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - HTML (including Jinja)
+      - Javascript
+      - CSS
+      - SASS
+      - SQL
+      - C#
+      - Bash
+      - MATLAB
+  - Family: Frameworks
+    Items:
+      - Django
+      - Flask
+      - Hugo
+      - React
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Jenkins
+      - AWS
+  - Family: Misc
+    Items:
+      - Adobe Tools
+      - LaTeX
+
+Languages:
+  - Name: Portuguese
+    Level: Native
+  - Name: English
+    Level: C2
+  - Name: Spanish
+    Level: B1
+  - Name: German
+    Level: B1
+
+Diplomas:
+  - ISTQB Tester Certification (2019)
+  - English Cambridge CAE (2009)
+
+Interests:
+  - Bouldering
+  - Cooking
+  - Windsurfing
+  - Bossa Nova
+  - Design
+  - Languages
