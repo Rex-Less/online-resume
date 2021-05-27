@@ -11,42 +11,20 @@ BasicInfo:
       Info: not yet.. soon!
     - Icon: fas fa-map-marker-alt
       Info: Beaverton, OR
-Profile: A generalist web developer with an enterprise software engineering focus. Experienced building and main customer centric products that are built on the cloud and for the browser. browser based technology. scoped and experienced software engineer that works on cloud and browser based technologies. Developing or maintain a productcustomer centric for enterprise teams. Fluent and experienced in enterprise scale object oriented and functional programming. Customer centric and mindful of their future to best provide an effortless experience with the products I work with. 
+Profile: A generalist web developer with an enterprise a software engineering focus. Experienced building and maintaining customer centric products that are built on the cloud for users to interact with thru a browser.0 Fluent and experienced in enterprise scale object oriented and functional programming. Customer centric and mindful of their future to best provide an effortless experience with the products I work with. 
 Experience:
   - Employer: Twilio, Inc.
-    Place: Beaverton, OR
+    Place: Portland, OR
     Positions:
       - Title: Technical Support Engineer and Developer
         Date: Dec 2018 - Apr 2021
         Details:
-          - Handeled or routed any technical problem a customer had and provided a service them to a solution or aswer.
+          - supported Twilio Flex with everything public facing to post sales cusomers
+          - handled Customer tickets for Twilio products Flex, Proxy, TaskRouter, Messaging, Chat, Voice, Conversations, and Studio
+          - solved problems of a wie range incluing SSO setups and custom customer relations manager integrations
+          - Handeled or routed any technical problem a customer had and provided a service them to a solution or aswer
           - Specialized in customer support on the following products Flex, TaskRouter, Messaging, Chat, Voice and Proxy
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
-    Positions:
-      - Title: Principal Technical Support Engineer
-        Date: Jan 2018 - Mar 2019
-        Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
-    Positions:
-      - Title: Technical Support Engineer (L4)
-        Date: Oct 2016 - Jun 2017
-        Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
-
+        Badges: ['Redux', 'TypeScript', 'ReactJS', 'Go', 'PHP', 'Python', 'Functional', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
 Education:
   - Course: BSc & MSc in Biomedical Engineering and Biophysics
     Place: University of Lisbon
@@ -56,15 +34,18 @@ Education:
 Skills:
   - Family: Programming
     Items:
+      - Go
+      - Java / Groovy 
       - Python
-      - HTML (including Jinja)
-      - Javascript
+      - PHP
+      - Command Line
+      - HTML 
+      - Javascript/TypeScript
       - CSS
-      - SASS
-      - SQL
-      - C#
-      - Bash
-      - MATLAB
+      - JSCSS/SASS/SCSS
+      - SQL/NoSQL
+      - Bookshelf / SQLizer / Mongoose / Hibernate 
+      
   - Family: Frameworks
     Items:
       - Django
